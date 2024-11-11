@@ -38,7 +38,7 @@ menu button {
 
 menu button:hover,
 menu button:active {
-  background-color: #a565dd
+  background-color: #a565dd;
 }
 
 ul {

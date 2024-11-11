@@ -7,4 +7,4 @@ import { Component } from "@angular/core";
     styleUrl: './header.component.css'
 })
 
-export class HederComponent {}
+export class HederComponent { }
